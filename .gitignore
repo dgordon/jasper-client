@@ -12,6 +12,9 @@ __pycache__/
 # C extensions
 *.so
 
+#windows pref files
+*desktop.ini
+
 # Distribution / packaging
 .Python
 env/
